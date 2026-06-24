@@ -24,10 +24,10 @@ SELECT name
 FROM artists
 WHERE name NOT LIKE '% %';
 
--- 5. Название треков, которые содержат слово «мой» или «my»
+-- 5. ДОРАБОТАН: Название треков, которые содержат слово «мой» или «my» (решил через регулярку)
 SELECT title
 FROM tracks
-WHERE LOWER(title) LIKE '%my%' OR LOWER(title) LIKE '%мой%';
+WHERE title ~* '(^|\s)my(\s|$)' OR title ~* '(^|\s)мой(\s|$)';
 
 -- =========
 -- ЗАДАНИЕ 3
@@ -58,13 +58,17 @@ JOIN tracks t ON a.album_id = t.album_id
 GROUP BY a.album_id, a.title
 ORDER BY avg_duration_seconds DESC;
 
--- 4. Все исполнители, которые не выпустили альбомы в 2020 году
-SELECT DISTINCT ar.name
+-- 4. ДОРАБОТАН: Все исполнители, которые не выпустили альбомы в 2020 году (вариант с NOT EXISTS)
+SELECT name
 FROM artists ar
-LEFT JOIN album_artists aa ON ar.artist_id = aa.artist_id
-LEFT JOIN albums a ON aa.album_id = a.album_id AND a.release_year = 2020
-WHERE a.album_id IS NULL
-ORDER BY ar.name;
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM album_artists aa
+    JOIN albums a ON aa.album_id = a.album_id
+    WHERE aa.artist_id = ar.artist_id
+    AND a.release_year = 2020
+)
+ORDER BY name;
 
 -- 5. Названия сборников, в которых присутствует конкретный исполнитель (например, Queen)
 SELECT DISTINCT c.name AS collection_name
