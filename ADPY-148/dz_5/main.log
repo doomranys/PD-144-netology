@@ -1,0 +1,2 @@
+2026-08-20 15:45:38 - test_flat_iterator() -> ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+2026-08-20 15:45:38 - flat_generator([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]) -> <generator object flat_generator at 0x10c07dee0>
