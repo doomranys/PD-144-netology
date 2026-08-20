@@ -1,0 +1,77 @@
+﻿property,title,value,format
+standardversion,Версия методических рекомендаций,http://opendata.gosmonitor.ru/standard/3.0,
+7710168360-Subordinate,"Организации, находящиеся в ведении Минфина России",https://minfin.gov.ru/opendata/7710168360-Subordinate/meta.csv,CSV
+7710168360-DomesticDebt,Государственный внутренний долг Российской Федерации,https://minfin.gov.ru/opendata/7710168360-DomesticDebt/meta.csv,CSV
+7710168360-NationalWealthFund,Информация об объеме Фонда национального благосостояния,https://minfin.gov.ru/opendata/7710168360-NationalWealthFund/meta.csv,CSV
+7710168360-CheckSROA,План проведения плановых проверок саморегулируемой организации аудиторов,https://minfin.gov.ru/opendata/7710168360-CheckSROA/meta.csv,CSV
+7710168360-ReportSROA,"Информация о результатах проверок саморегулируемой организации аудиторов, проведенных Министерством финансов Российской Федерации",https://minfin.gov.ru/opendata/7710168360-ReportSROA/meta.csv,CSV
+7710168360-AuditorsActivity,Информация об аудиторской деятельности,https://minfin.gov.ru/opendata/7710168360-AuditorsActivity/meta.csv,CSV
+7710168360-ActivitySROA,Информация о деятельности саморегулируемой организации аудиторов,https://minfin.gov.ru/opendata/7710168360-ActivitySROA/meta.csv,CSV
+7710168360-Jobs,Сведения о вакантных должностях государственной гражданской службы,https://minfin.gov.ru/opendata/7710168360-Jobs/meta.csv,CSV
+7710168360-ExternalDebt,Государственный внешний долг Российской Федерации,https://minfin.gov.ru/opendata/7710168360-ExternalDebt/meta.csv,CSV
+7710168360-SubordinateBiography,"Биографические справки о руководителях организаций, находящихся в ведении Минфина России",https://minfin.gov.ru/opendata/7710168360-SubordinateBiography/meta.csv,XML
+7710168360-ConsolidatedSROA,"Сводные данные о результатах проверок саморегулируемой организации аудиторов, проведенных Министерством финансов Российской Федерации",https://minfin.gov.ru/opendata/7710168360-ConsolidatedSROA/meta.csv,CSV
+7710168360-Subject_Debt,Объем государственного долга субъектов Российской Федерации и муниципального долга,https://minfin.gov.ru/opendata/7710168360-Subject_Debt/meta.csv,CSV
+7710168360-Control_FKU,План по контролю за деятельностью подведомственных Министерству финансов Российской Федерации федеральных казенных учреждений и федеральных государственных бюджетных учреждений,https://minfin.gov.ru/opendata/7710168360-Control_FKU/meta.csv,CSV
+7710168360-Buy_FKU,План ведомственного контроля в сфере закупок для обеспечения федеральных нужд,https://minfin.gov.ru/opendata/7710168360-Buy_FKU/meta.csv,CSV
+7710168360-Diamonds_price,Прейскурант цен на алмазы природные необработанные,https://minfin.gov.ru/opendata/7710168360-Diamonds_price/meta.csv,CSV
+7710168360-plan_regulatory,"Перечень нормативных правовых актов, принятых Министерством финансов Российской Федерации",https://minfin.gov.ru/opendata/7710168360-plan_regulatory/meta.csv,CSV
+7710168360-affinage_org,"Перечень организаций, имеющих право осуществлять аффинаж драгоценных металлов",https://minfin.gov.ru/opendata/7710168360-affinage_org/meta.csv,CSV
+7710168360-alexandrite_nature_raw,Прейскурант цен на необработанные природные александриты,https://minfin.gov.ru/opendata/7710168360-alexandrite_nature_raw/meta.csv,CSV
+7710168360-alexandrite_nature_worked,Прейскурант цен на александриты природные обработанные с параметрами пропорций группы «А»,https://minfin.gov.ru/opendata/7710168360-alexandrite_nature_worked/meta.csv,CSV
+7710168360-emerald_cabochon,Прейскурант цен на изумруды огранки кабошон,https://minfin.gov.ru/opendata/7710168360-emerald_cabochon/meta.csv,CSV
+7710168360-emerald_nature_raw,"Прейскурант цен на необработанные природные изумруды (изумруды природные в сырье) и изумруды природные в сырье, подвергнутые черновой обработке",https://minfin.gov.ru/opendata/7710168360-emerald_nature_raw/meta.csv,CSV
+7710168360-emerald_nature_worked,Прейскурант цен на изумруды природные обработанные,https://minfin.gov.ru/opendata/7710168360-emerald_nature_worked/meta.csv,CSV
+7710168360-docs_strategic_planning,Документы государственного стратегического планирования,https://minfin.gov.ru/opendata/7710168360-docs_strategic_planning/meta.csv,CSV
+7710168360-members_public_council,Состав Общественного органа,https://minfin.gov.ru/opendata/7710168360-members_public_council/meta.csv,CSV
+7710168360-international_treaty,Список международных договоров об избежании двойного налогообложения между Российской Федерацией и другими государствами,https://minfin.gov.ru/opendata/7710168360-international_treaty/meta.csv,CSV
+7710168360-SROA_npa,"Перечень правовых актов и их отдельных частей (приложений), содержащих обязательные требования, соблюдение которых оценивается при осуществлении государственного контроля (надзора) за деятельностью саморегулируемой организации аудиторов",https://minfin.gov.ru/opendata/7710168360-SROA_npa/meta.csv,CSV
+7710168360-accounts_balance,"Балансовые счета единого плана счетов бухгалтерского учета для органов государственной власти (государственных органов), органов местного самоуправления, органов управления государственными внебюджетными фондами, государственных академий наук, государственных (муниципальных) учреждений",https://minfin.gov.ru/opendata/7710168360-accounts_balance/meta.csv,CSV
+7710168360-accounts_offbalance,"Забалансовые счета единого плана счетов бухгалтерского учета для органов государственной власти (государственных органов), органов местного самоуправления, органов управления государственными внебюджетными фондами, государственных академий наук, государственных (муниципальных) учреждений",https://minfin.gov.ru/opendata/7710168360-accounts_offbalance/meta.csv,CSV
+7710168360-accounts_budget,План счетов бюджетного учета (балансовые счета),https://minfin.gov.ru/opendata/7710168360-accounts_budget/meta.csv,CSV
+7710168360-ismf,Сведения о государственных информационных системах Минфина России,https://minfin.gov.ru/opendata/7710168360-ismf/meta.csv,CSV
+7710168360-mass_media,Информация об учрежденных Минфином России средствах массовой информации,https://minfin.gov.ru/opendata/7710168360-mass_media/meta.csv,CSV
+7710168360-requested_od,"Сведения о наборах открытых данных, сформированных по запросам граждан",https://minfin.gov.ru/opendata/7710168360-requested_od/meta.csv,CSV
+7710168360-infomap,Информационные карты,https://minfin.gov.ru/opendata/7710168360-infomap/meta.csv,CSV
+7710168360-archive,Электронные описи архивных фондов,https://minfin.gov.ru/opendata/7710168360-archive/meta.csv,CSV
+7710168360-fedbud_year,"Краткая информация об исполнении федерального бюджета, ежегодно",https://minfin.gov.ru/opendata/7710168360-fedbud_year/meta.csv,CSV
+7710168360-fedbud_quarter,"Краткая информация об исполнении федерального бюджета, ежеквартально",https://minfin.gov.ru/opendata/7710168360-fedbud_quarter/meta.csv,CSV
+7710168360-fedbud_month,"Краткая информация об исполнении федерального бюджета, ежемесячно",https://minfin.gov.ru/opendata/7710168360-fedbud_month/meta.csv,CSV
+7710168360-subbud_year,"Краткая информация об исполнении консолидированных бюджетов субъектов Российской Федерации, ежегодно",https://minfin.gov.ru/opendata/7710168360-subbud_year/meta.csv,CSV
+7710168360-subbud_quarter,"Краткая информация об исполнении консолидированных бюджетов субъектов Российской Федерации, ежеквартально",https://minfin.gov.ru/opendata/7710168360-subbud_quarter/meta.csv,CSV
+7710168360-subbud_month,"Краткая информация об исполнении консолидированных бюджетов субъектов Российской Федерации, ежемесячно",https://minfin.gov.ru/opendata/7710168360-subbud_month/meta.csv,CSV
+7710168360-conbud_year,"Краткая информация об исполнении консолидированного бюджета Российской Федерации и государственных внебюджетных фондов, ежегодно",https://minfin.gov.ru/opendata/7710168360-conbud_year/meta.csv,CSV
+7710168360-conbud_quarter,"Краткая информация об исполнении консолидированного бюджета Российской Федерации и государственных внебюджетных фондов, ежеквартально",https://minfin.gov.ru/opendata/7710168360-conbud_quarter/meta.csv,CSV
+7710168360-conbud_month,"Краткая информация об исполнении консолидированного бюджета Российской Федерации и государственных внебюджетных фондов, ежемесячно",https://minfin.gov.ru/opendata/7710168360-conbud_month/meta.csv,CSV
+7710168360-outbud_year,"Краткая информация об исполнении бюджетов государственных внебюджетных фондов, ежегодно",https://minfin.gov.ru/opendata/7710168360-outbud_year/meta.csv,CSV
+7710168360-outbud_quarter,"Краткая информация об исполнении бюджетов государственных внебюджетных фондов, ежеквартально",https://minfin.gov.ru/opendata/7710168360-outbud_quarter/meta.csv,CSV
+7710168360-outbud_month,"Краткая информация об исполнении бюджетов государственных внебюджетных фондов, ежемесячно",https://minfin.gov.ru/opendata/7710168360-outbud_month/meta.csv,CSV
+7710168360-repo,"Оперативные сведения об остатках средств федерального бюджета в депозитах, бюджетных кредитах и ценных бумагах по сделкам РЕПО",https://minfin.gov.ru/opendata/7710168360-repo/meta.csv,CSV
+7710168360-plan_os,План работы Общественного органа,https://minfin.gov.ru/opendata/7710168360-plan_os/meta.csv,CSV
+7710168360-subj_bc,Результаты мониторинга соблюдения субъектами Российской Федерации требований Бюджетного кодекса Российской Федерации,https://minfin.gov.ru/opendata/7710168360-subj_bc/meta.csv,CSV
+7710168360-profit_divide,Распределение доходов между бюджетами бюджетной системы Российской Федерации,https://minfin.gov.ru/opendata/7710168360-profit_divide/meta.csv,CSV
+7710168360-gp_regfin,Фактически достигнутые значения целевых показателей государственной программы Российской Федерации «Развитие федеративных отношений и создание условий для эффективного и ответственного управления региональными и муниципальными финансами»,https://minfin.gov.ru/opendata/7710168360-gp_regfin/meta.csv,CSV
+7710168360-declaration,Публичная декларация целей и задач Минфина России,https://minfin.gov.ru/opendata/7710168360-declaration/meta.csv,XML
+7710168360-nsc_execution,"Сведения о выполнении плана по сети, штатам и контингентам получателей бюджетных средств, состоящих на бюджете субъекта Российской Федерации и бюджетах муниципальных образований",https://minfin.gov.ru/opendata/7710168360-nsc_execution/meta.csv,CSV
+7710168360-subj_finance,Результаты мониторинга финансового положения и качества управления финансами субъектов Российской Федерации и муниципальных образований,https://minfin.gov.ru/opendata/7710168360-subj_finance/meta.csv,CSV
+7710168360-insurance_tariff,"Тарифы страховых взносов на обязательное пенсионное страхование (ОПС), обязательное социальное страхование на случай временной нетрудоспособности и в связи с материнством (ОСС) и обязательное медицинское страхование (ОМС)",https://minfin.gov.ru/opendata/7710168360-insurance_tariff/meta.csv,CSV
+7710168360-insurance_amount,"Размер страховых взносов, уплачиваемых плательщиками, не производящими выплат и иных вознаграждений физическим лицам",https://minfin.gov.ru/opendata/7710168360-insurance_amount/meta.csv,CSV
+7710168360-auction_results,Результаты проведенных аукционов по размещению государственных ценных бумаг,https://minfin.gov.ru/opendata/7710168360-auction_results/meta.csv,CSV
+7710168360-volume_issues,Объемы размещенных государственных ценных бумаг,https://minfin.gov.ru/opendata/7710168360-volume_issues/meta.csv,CSV
+7710168360-OFZ-n_redeemed,"Номинальная стоимость выкупленных у владельцев облигаций федерального займа для физических лиц (ОФЗ-н), обязательства по которым признаны исполненными",https://minfin.gov.ru/opendata/7710168360-OFZ-n_redeemed/meta.csv,CSV
+7710168360-OFZ-n_placement,Параметры размещаемого в настоящее время выпуска облигаций федерального займа для физических лиц (ОФЗ-н),https://minfin.gov.ru/opendata/7710168360-OFZ-n_placement/meta.csv,CSV
+7710168360-IFRS,"Перечень международных стандартов финансовой отчетности, введенных в действие на территории Российской Федерации",https://minfin.gov.ru/opendata/7710168360-IFRS/meta.csv,CSV
+7710168360-accounting_standards,"Перечень федеральных стандартов бухгалтерского учета, утвержденных Минфином России",https://minfin.gov.ru/opendata/7710168360-accounting_standards/meta.csv,CSV
+7710168360-compensation_vehicle,Предельные нормы компенсации за использование личных легковых автомобилей и мотоциклов для служебных поездок,https://minfin.gov.ru/opendata/7710168360-compensation_vehicle/meta.csv,CSV
+7710168360-accounts_bookkeeper,План счетов бухгалтерского учета финансово - хозяйственной деятельности организаций,https://minfin.gov.ru/opendata/7710168360-accounts_bookkeeper/meta.csv,CSV
+7710168360-papers_summary,Итоги операций Минфина России на рынке государственных ценных бумаг,https://minfin.gov.ru/opendata/7710168360-papers_summary/meta.csv,CSV
+7710168360-warranty_support,"Перечень иностранных государств, экспорту промышленной продукции в которые оказывается государственная гарантийная поддержка",https://minfin.gov.ru/opendata/7710168360-warranty_support/meta.csv,CSV
+7710168360-refineries_production,Сводные данные производства драгоценных металлов аффинажными организациями,https://minfin.gov.ru/opendata/7710168360-refineries_production/meta.csv,CSV
+7710168360-domestic_payments,Платежи по государственному внутреннему долгу Российской Федерации,https://minfin.gov.ru/opendata/7710168360-domestic_payments/meta.csv,CSV
+7710168360-external_schedule,График погашения государственного внешнего долга Российской Федерации по видам долговых обязательств,https://minfin.gov.ru/opendata/7710168360-external_schedule/meta.csv,CSV
+7710168360-entity_debtor,"Информация о лицах, имеющих просроченную задолженность по денежным обязательствам перед федеральным бюджетом (Российской Федерацией)",https://minfin.gov.ru/opendata/7710168360-entity_debtor/meta.csv,CSV
+7710168360-subordinate_monitoring,Результаты мониторинга качества финансового менеджмента в отношении подведомственных Министерству финансов Российской Федерации федеральных казенных учреждений,https://minfin.gov.ru/opendata/7710168360-subordinate_monitoring/meta.csv,CSV
+7710168360-distribution_subsidies,Распределение дотаций на выравнивание бюджетной обеспеченности субъектов Российской федерации на очередной финансовой год и плановый период,https://minfin.gov.ru/opendata/7710168360-distribution_subsidies/meta.csv,CSV
+7710168360-audit_contract,Информация о договорах оказания аудиторских услуг,https://minfin.gov.ru/opendata/7710168360-audit_contract/meta.csv,CSV
+7710168360-income_lost,"Объемы выпадающих доходов бюджетов субъектов Российской Федерации по налоговым льготам и пониженным ставкам по налогу на прибыль и имущество организаций, установленных законодательством субъектов Российской Федерации и имеющим положительный совокупный бюджетный эффект",https://minfin.gov.ru/opendata/7710168360-income_lost/meta.csv,CSV
+7710168360-mkfm,"Результаты мониторинга качества финансового менеджмента в отношении главных распорядителей средств федерального бюджета, главных администраторов доходов федерального бюджета, главных администраторов источников финансирования дефицита федерального бюджета",https://minfin.gov.ru/opendata/7710168360-mkfm/meta.csv,CSV

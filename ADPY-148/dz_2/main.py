@@ -21,20 +21,22 @@ def format_phone(phone):
         return formatted
     return phone
 
-# 2. Определяем путь к файлу (используем ту же папку, где находится скрипт)
-script_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(script_dir, "list.csv")  # ИЗМЕНЕНО!
-
-# 3. Читаем файл
-with open(file_path, encoding="utf-8") as f:
-    rows = csv.reader(f, delimiter=",")
-    contacts_list = list(rows)
+# 2. Читаем правильный файл
+try:
+    with open("phonebook_raw.csv", encoding="utf-8") as f:
+        rows = csv.reader(f, delimiter=",")
+        contacts_list = list(rows)
+except FileNotFoundError:
+    print("❌ Ошибка: файл phonebook_raw.csv не найден!")
+    print("Текущая директория:", os.getcwd())
+    print("Доступные файлы:", os.listdir())
+    exit()
 
 print("Исходные данные:")
 pprint(contacts_list)
 print("\n" + "="*80 + "\n")
 
-# 4. Обрабатываем данные
+# 3. Обрабатываем данные
 header = contacts_list[0]
 contacts = contacts_list[1:]
 result = []
@@ -59,7 +61,7 @@ for contact in contacts:
     
     result.append(new_contact)
 
-# 5. Объединение дубликатов
+# 4. Объединение дубликатов
 unique_dict = {}
 for contact in result:
     key = (contact[0].lower(), contact[1].lower())
@@ -77,11 +79,12 @@ print("Обработанные данные:")
 pprint(final_contacts)
 print("\n" + "="*80 + "\n")
 
-# 6. Сохраняем результат
-output_path = os.path.join(script_dir, "phonebook.csv")
-with open(output_path, "w", encoding="utf-8", newline='') as f:
+# 5. Сохраняем результат
+with open("phonebook.csv", "w", encoding="utf-8", newline='') as f:
     datawriter = csv.writer(f, delimiter=',')
     datawriter.writerows(final_contacts)
 
 print(f"✅ Готово! Обработано {len(final_contacts) - 1} записей")
-print(f"Результат сохранен в {output_path}")
+print("Результат сохранен в phonebook.csv")
+print(f"Количество колонок: {len(header)}")
+print(f"Заголовки: {', '.join(header)}")
